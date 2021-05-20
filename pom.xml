@@ -18,6 +18,10 @@
     <modules>
         <module>discovery</module>
         <module>user-service</module>
+        <module>zuul-service</module>
+        <module>services/first-service</module>
+        <module>services/second-service</module>
+        <module>gateway</module>
     </modules>
 
 </project>
